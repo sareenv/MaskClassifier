@@ -1,3 +1,5 @@
+# Ref: https://stackoverflow.com/questions/45783644/url-request-from-python - Req to make the http request to the server.
+import requests as req
 
 '''
     The objective of the Scrapper class is 
@@ -33,4 +35,6 @@ class Scrapper:
         pass
 
 if (__name__ == "__main__"):
-    scapper = Scrapper()
+    scrapper = Scrapper()
+    scrapper.downloadImages()
+    scrapper.deleteImages()
