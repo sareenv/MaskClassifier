@@ -44,22 +44,13 @@ Anaconda for which installation guide can be found at: [https://docs.anaconda.co
 Based on the installation, if the anaconda was method of installation for the python installation, then it comes with packaged with some data science libraries. Otherwise, each dependency needs to be installed using pip or pip3 package manager. 
 
 <ul>
-  <li> Numpy. - Provides the efficient method to store the data as n-dimensional <br/>
-    Provides the structure ~ similar to the idea of tensors provided by the pytorch.
-   </li>
-
+  <li> Numpy. - Provides the efficient method to store the data ~ similar to tensors.</li>
   <li> Matplotlib - Visualisation of the dataset </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> Pytorch - CNN Training, Evaluation </li>
+  <li> Sklearn - Model Evaluation, Pre-processing</li>
+  <li> Pillow - Image Processing </li>
 </ul>
 
-   
- 2. 
- 3. Pytorch - Model Training.
-    NOT INSTALLED:
- 5. Sklearn - Model Evaluation.
- 6. Pillow - Image Processing
 
- Step 3: To run the model Training: 
+
     
