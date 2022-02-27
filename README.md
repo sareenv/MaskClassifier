@@ -30,15 +30,14 @@ All the above packages can be installed directly using Anaconda Installer which 
 
 <hr />
 
-## Instructions.
+# Instructions.
 
 
-Step 1: Download Python.
+## Step 1: Download Python.
 
 Install the python 3.6, Now there are various methods but the easy one is to install 
 Anaconda for which installation guide can be found at: [https://docs.anaconda.com/anaconda/install/index.html]
 
-<hr/>
 
 ## Download the Required Libraries. 
 Based on the installation, if the anaconda was method of installation for the python installation, then it comes with packaged with some data science libraries. Otherwise, each dependency needs to be installed using pip or pip3 package manager. 
