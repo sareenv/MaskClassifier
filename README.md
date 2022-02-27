@@ -27,3 +27,39 @@ All the above packages can be installed directly using Anaconda Installer which 
     <li> Ali Sabaghpourfard.</li>
     <li> Sara Khandehrooy.</li>
 </ol>
+
+<hr />
+
+## Instructions.
+
+
+Step 1: Download Python.
+
+Install the python 3.6, Now there are various methods but the easy one is to install 
+Anaconda for which installation guide can be found at: [https://docs.anaconda.com/anaconda/install/index.html]
+
+<hr/>
+
+## Download the Required Libraries. 
+Based on the installation, if the anaconda was method of installation for the python installation, then it comes with packaged with some data science libraries. Otherwise, each dependency needs to be installed using pip or pip3 package manager. 
+
+<ul>
+  <li> Numpy. - Provides the efficient method to store the data as n-dimensional <br/>
+    Provides the structure ~ similar to the idea of tensors provided by the pytorch.
+   </li>
+
+  <li> Matplotlib - Visualisation of the dataset </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ul>
+
+   
+ 2. 
+ 3. Pytorch - Model Training.
+    NOT INSTALLED:
+ 5. Sklearn - Model Evaluation.
+ 6. Pillow - Image Processing
+
+ Step 3: To run the model Training: 
+    
