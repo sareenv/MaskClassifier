@@ -20,10 +20,10 @@ The project involves our team of four members to develop a convolutional neural 
 All the above packages can be installed directly using Anaconda Installer which will also install Jupyter notebooks present in the ```instructions.txt``` file. Anaconda downloader can be downloaded from [Download Link](https://www.anaconda.com/distribution/)
 
 <hr/>
+
 ## Team Members
 <ol>
     <li> Vinayak Sareen.</li>
     <li> Ali Sabaghpourfard.</li>
     <li> Sara Khandehrooy.</li>
-
 </ol>
