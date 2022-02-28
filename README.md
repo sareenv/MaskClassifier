@@ -24,8 +24,8 @@ All the above packages can be installed directly using Anaconda Installer which 
 ## Team Members
 <ol>
     <li> Vinayak Sareen.</li>
-    <li> Ali Sabaghpourfard.</li>
-    <li> Sara Khandehrooy.</li>
+    <li> Junaid Ijaz.</li>
+    <li> Satinder.</li>
 </ol>
 
 <hr />
