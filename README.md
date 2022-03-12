@@ -9,12 +9,18 @@ The project involves our team of four members to develop a convolutional neural 
 3. Convolutional Neural Network Model Training.
 4. Analyse the performance of the model with the confusion matrix. 
 
+## Required DataSets
+The datasets required to run the model training can be downloaded from the Google Drive link 
+https://drive.google.com/drive/folders/1BXyuxUizX9zzhwwTt5Bw-yedemi8drb2?usp=sharing
+
+
 ## Libraries. 
 <ul>
-    <li> Pytourch </li>
+    <li> Pytorch </li>
     <li> Matplotlib </li>
     <li> Sklearn </li>
     <li> Numpy</li>
+    <li> Skorch </li>
 </ul>
 
 All the above packages can be installed directly using Anaconda Installer which will also install Jupyter notebooks present in the ```instructions.txt``` file. Anaconda downloader can be downloaded from [Download Link](https://www.anaconda.com/distribution/)
