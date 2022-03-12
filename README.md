@@ -10,7 +10,7 @@ The project involves our team of four members to develop a convolutional neural 
 4. Analyse the performance of the model with the confusion matrix. 
 
 ## Required DataSets
-The datasets required to run the model training can be downloaded from the Google Drive link 
+The datasets required to run the model training can be downloaded from the Google Drive link. The dataset is too large to upload to the repository so, our team has provided the link for the dataset with following google drive link: 
 https://drive.google.com/drive/folders/1BXyuxUizX9zzhwwTt5Bw-yedemi8drb2?usp=sharing
 
 
