@@ -54,6 +54,7 @@ Based on the installation, if the anaconda was method of installation for the py
   <li> Pytorch - CNN Training, Evaluation </li>
   <li> Sklearn - Model Evaluation, Pre-processing</li>
   <li> Pillow - Image Processing </li>
+  <li> skorch - Wrapper Library around pytorch to give method calls of sklearn
 </ul>
 
 
